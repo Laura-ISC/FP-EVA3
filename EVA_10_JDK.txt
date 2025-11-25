@@ -1,0 +1,60 @@
+Microsoft Windows [Versión 10.0.26100.6899]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\laura>
+C:\Users\laura>
+C:\Users\laura>cd..
+
+C:\Users>cd..
+
+C:\>cd practicas
+
+C:\practicas>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: CA88-9007
+
+ Directorio de C:\practicas
+
+20/11/2025  02:51 p. m.    <DIR>          .
+20/11/2025  02:51 p. m.               131 Prueba.java
+20/11/2025  02:51 p. m.             2,456 REDES LAN TIPOS DE PUNTAS Y CÓDIGOS.txt
+               2 archivos          2,587 bytes
+               1 dirs  406,638,718,976 bytes libres
+
+C:\practicas>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: CA88-9007
+
+ Directorio de C:\practicas
+
+24/11/2025  04:32 p. m.    <DIR>          .
+20/11/2025  02:51 p. m.               131 Prueba.java
+               1 archivos            131 bytes
+               1 dirs  406,638,333,952 bytes libres
+
+C:\practicas>javac Prueba.java
+
+C:\practicas>javac Prueba.java
+
+C:\practicas>javac Prueba
+error: Class names, 'Prueba', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\practicas>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: CA88-9007
+
+ Directorio de C:\practicas
+
+24/11/2025  04:35 p. m.    <DIR>          .
+24/11/2025  04:40 p. m.               416 Prueba.class
+20/11/2025  02:51 p. m.               131 Prueba.java
+               2 archivos            547 bytes
+               1 dirs  406,634,676,224 bytes libres
+
+C:\practicas>javac Prueba.java
+
+C:\practicas>java Prueba
+Hola mundo
+
+C:\practicas>
